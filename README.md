@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# react-github-finder-app
 React Github Finder app 
 =======
 # Getting Started with Create React App
