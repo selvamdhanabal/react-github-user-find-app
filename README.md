@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # react-github-finder-app
 React Github Finder app 
 =======
@@ -73,3 +74,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 >>>>>>> fc870cc (Initialize project using Create React App)
+=======
+# react-github-user-find-app
+App to search Github users and display their info.
+>>>>>>> aedaffb5d3c2403d85927ffb2c66b4df22131b21
